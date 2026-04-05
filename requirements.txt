@@ -1,0 +1,8 @@
+aiohttp
+dnspython
+opensearch-py
+psutil
+pyrogram
+tgcrypto
+python-dotenv
+telethon
